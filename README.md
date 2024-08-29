@@ -20,9 +20,9 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 
 Progress Update
 
-First Page Completion: The first page of the website has been completed. This contains the basic structure that constitutes the main elements of the content.
+Three Page Completion: The three pages of the website has been completed. This contains the basic structure that constitutes the main elements of the content.
 
-Design on Figma: All the pages were designed in Figma. 
+Design on Figma: All the UI/UX of the pages were at first designed on Figmam, then coded. 
 This covered:every things that are going to be integrated in our project
 Balance: almost 70% of our work is completed  including designing, coding, presentation making, calculations, etc. The rest remaining is only 30% which will be completed in a short span of time.
 
